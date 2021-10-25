@@ -1,0 +1,42 @@
+[
+    {
+        "vehicle": "Lamborghini",
+        "owner": "Amritesh",
+        "details": "some detail about Amritesh's car",
+        "pickup": "Infosys",
+        "destination": "BHU",
+        "seats": 2
+    },
+    {
+        "vehicle": "Mercedes",
+        "owner": "damini",
+        "details": "some detail about Damini's car",
+        "pickup": " Station",
+        "destination": "Infosys",
+        "seats": 1
+    },
+    {
+        "vehicle": "Jaguar",
+        "owner": "john",
+        "details": "some detail about John's car",
+        "pickup": "Infosys",
+        "destination": "Station",
+        "seats": 3
+    },
+    {
+        "vehicle": "Farari",
+        "owner": "Ashu",
+        "details": "some detail about Ashu's car",
+        "pickup": "BHU",
+        "destination": "Infosys",
+        "seats": 4
+    },
+    {
+        "vehicle": "BMW",
+        "owner": "Ashwani",
+        "details": "some detail about Ashwani's car",
+        "pickup": "Station",
+        "destination": "Infosys",
+        "seats": 2
+    }
+]
